@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameField" type="id" />
+    <item name="emailAddress" type="id" />
+    <item name="usernameField" type="id" />
+    <item name="selectedDateOfBirth" type="id" />
+    <item name="username" type="id" />
+<!--    <item name="userName" type="id" />-->
+   </resources>
